@@ -1,0 +1,15 @@
+## Interface: 30300
+## Title: AltSync
+## Author: Derkyle
+## Version: 1.4
+## Notes: A simple mod that adds player alt information to the chatframe.
+## SavedVariables: AltSyncDB
+
+## LoadManagers: AddonLoader
+## X-LoadOn-Always: delayed
+
+Libs\LibStub.lua
+Libs\tekKonfigAboutPanel.lua
+Libs\tekKonfigScroll.lua
+
+AltSync.lua
