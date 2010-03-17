@@ -1,6 +1,6 @@
 ## Interface: 30300
 ## Title: AltSync
-## Author: Derkyle
+## Author: Xruptor
 ## Version: 1.4
 ## Notes: A simple mod that adds player alt information to the chatframe.
 ## SavedVariables: AltSyncDB
